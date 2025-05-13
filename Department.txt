@@ -1,0 +1,3 @@
+HR1,HR Department,0112223243,hr@gmail.com
+F3,Finance Department,0113452356,fin@gmail.com
+IT2,IT Department,0112182122,it@gmail.com

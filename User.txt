@@ -1,0 +1,3 @@
+#001,Tharuka Premasiri,Manager,tharu98,123
+#002,Ashen Samarasekara,Assistant,ashensam1,456
+#004,Lahiru Perera,Assistant,lahiru123,456

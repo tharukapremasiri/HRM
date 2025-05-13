@@ -1,0 +1,6 @@
+A100,Ashane Senarathne,HR Department,Trainee,23451,0772212344,ashen@gmail.com
+A200,Shehan Perera,IT Department,Network Admin,124244,0772121181,shehan@gmail.com
+A400,Tuco Salamanca,Finance Department,Finance Manager,84322,0113426543,tuco@gmail.com
+A300,Sachintha Naveen,HR Department,HR Manager,92221,0772192121,sachintha@gmail.com
+A500,Jesse Pinkman,HR Department,Trainee,83291,0772123122,jesse@mail.com
+A600,Walter White,IT Department,IT Manager,72102,0772192212,walter@gmail.com
